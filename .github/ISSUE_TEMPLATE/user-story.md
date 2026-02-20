@@ -16,8 +16,8 @@ assignees: ''
   
  ### Acceptance Criteria
 
-''''Gherkin
+ ```Gherkin
 Given [some context or preconditions]
 When [certain action is taken by the user]
 Then [the expected outcome of action is observed]
-'''
+```
